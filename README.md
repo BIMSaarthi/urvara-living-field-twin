@@ -46,4 +46,4 @@ Sentinel-1 and Sentinel-2 (via Copernicus Data Space), CHIRPS rainfall, Copernic
 
 ## Contact
 
-BIMSaarthi Technologies Pvt. Ltd. · venkatesh@bimsaarthi.com · https://bimsaarthi.com
+BIMSaarthi Technologies Pvt. Ltd. · community@bimsaarthi.com · https://bimsaarthi.com
